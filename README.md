@@ -1,3 +1,4 @@
+<img width="1024" height="1024" alt="ICE Store" src="https://github.com/user-attachments/assets/b5ef2b46-21f4-48c4-a96a-d5ead29740dc" />
 # Tienda ICE
 Tienda de video Juegos 
 Trabajo para la tienda online Ice, que vende videojuegos en todo el mundo, y mi objetivo es identificar patrones que expliquen cuándo un juego tiene éxito o no. Analizo reseñas de usuarios y expertos, géneros, plataformas, ventas históricas hasta 2016 y la clasificación ESRB para aprender a trabajar con datos y poder detectar proyectos prometedores y planificar mejores campañas publicitarias futuras.
